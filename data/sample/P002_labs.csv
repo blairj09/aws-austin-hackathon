@@ -1,0 +1,15 @@
+patient_id,panel,test,value,unit,ref_low,ref_high,flag
+P002,CBC,hemoglobin,14.8,g/dL,12.0,16.0,
+P002,CBC,wbc,6.1,10^3/uL,4.0,11.0,
+P002,CBC,platelets,240.0,10^3/uL,150.0,400.0,
+P002,BMP,sodium,140.0,mmol/L,135.0,145.0,
+P002,BMP,potassium,4.2,mmol/L,3.5,5.0,
+P002,BMP,creatinine,1.0,mg/dL,0.6,1.2,
+P002,BMP,glucose,88.0,mg/dL,70.0,99.0,
+P002,BMP,bun,14.0,mg/dL,7.0,20.0,
+P002,Lipids,total_cholesterol,182.0,mg/dL,0.0,200.0,
+P002,Lipids,ldl,104.0,mg/dL,0.0,100.0,H
+P002,Lipids,hdl,52.0,mg/dL,40.0,200.0,
+P002,Lipids,triglycerides,96.0,mg/dL,0.0,150.0,
+P002,Metabolic,hba1c,5.2,%,4.0,5.6,
+P002,Vitals,spo2,98.0,%,95.0,100.0,

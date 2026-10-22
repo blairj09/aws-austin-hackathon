@@ -1,0 +1,21 @@
+{
+  "patient_id": "P001",
+  "name": "Maria (synthetic)",
+  "age": 58,
+  "sex": "F",
+  "height_cm": 163,
+  "weight_kg": 84,
+  "history": [
+    "type 2 diabetes (diet-controlled)",
+    "hypertension"
+  ],
+  "medications": [
+    "lisinopril 10 mg daily"
+  ],
+  "complaint": "Two weeks of palpitations and fatigue; mild shortness of breath on stairs.",
+  "goals": "Wants to keep gardening and walking with her grandkids.",
+  "imaging": {
+    "chest_xray": null,
+    "note": "Drop a public chest X-ray (e.g. NIH ChestX-ray14) at data/raw/P001_cxr.png to enable the Radiologist."
+  }
+}

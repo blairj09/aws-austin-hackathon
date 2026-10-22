@@ -1,0 +1,33 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ruff_cache/
+.pytest_cache/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Secrets and licenses: never commit
+.env
+.env.*
+*.lic
+*.pem
+credentials
+
+# Data you download (keep the synthetic sample)
+data/raw/
+
+# Run logs (keep the committed example)
+logs/*
+!logs/example-run.jsonl
+!logs/example-summary.md
+
+# AgentCore toolkit output
+.bedrock_agentcore/
+.bedrock_agentcore.yaml
+
+.DS_Store
+.positron/

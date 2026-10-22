@@ -1,0 +1,6 @@
+bedrock-agentcore
+chatlas>=0.23
+boto3
+numpy
+scipy
+pandas

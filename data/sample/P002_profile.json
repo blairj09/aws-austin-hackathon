@@ -1,0 +1,16 @@
+{
+  "patient_id": "P002",
+  "name": "Devon (synthetic)",
+  "age": 34,
+  "sex": "M",
+  "height_cm": 180,
+  "weight_kg": 77,
+  "history": [],
+  "medications": [],
+  "complaint": "Annual physical; occasional knee pain after running.",
+  "goals": "Train for a half marathon.",
+  "imaging": {
+    "chest_xray": null,
+    "note": "No imaging ordered."
+  }
+}
